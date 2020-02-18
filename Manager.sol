@@ -1,3 +1,5 @@
+pragma solidity >=0.5.1 <0.6.0;
+
 contract Manager{
 
     address public superManager = 0x786b4a3c8E6042364619314CCd76b77cE65Af28F;
